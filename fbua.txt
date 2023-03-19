@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/376.0.0.12.108;FBBV/383918717;FBDM/{density=2.625,width=1080,height=2034};FBLC/nl_NL;FBRV/385309599;FBCR/Proximus;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/OnePlus 11R;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/390.0.0.27.105;FBBV/412137089;FBDM/{density=2.5,width=1080,height=2259};FBLC/en_US;FBRV/0;FBCR/Telenor;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2050;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
